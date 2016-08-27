@@ -12,7 +12,3 @@ color:
     - '#6B574B'
     - '#160600'
 name: Broadway to Boardroom
-navigation:
-  - name: Design
-    id: 79b48d44-45af-4afc-8797-77b9ae02280e
-    type: content
