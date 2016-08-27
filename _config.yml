@@ -1,14 +1,14 @@
-layout_spectrum: 0.19926468818448484
-typography_spectrum: 0.7499480673577636
+layout_spectrum: 0.508123256964609
+typography_spectrum: 0.5095534941647202
 color:
-  brandStrength: 0.45435455976985395
-  lightness: 0.059344773180782795
-  saturation: 0.05100369593128562
-  rhythmicContrast: 0.4538911636918783
+  brandStrength: 0.36238917778246105
+  lightness: 0.8692801506258547
+  saturation: 0.18119877483695745
+  rhythmicContrast: 0.24126184871420264
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: Broadway to Boardroom
