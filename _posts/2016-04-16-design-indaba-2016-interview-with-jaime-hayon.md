@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-26T22:54:46.470Z'
+datePublished: '2016-08-26T22:55:51.873Z'
 sourcePath: _posts/2016-04-16-design-indaba-2016-interview-with-jaime-hayon.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.coolhunting.com/design/interview-designer-jaime-haydon-design-indaba
-hasPage: false
+hasPage: true
 keywords:
   - designing
   - hayon
@@ -18,7 +16,7 @@ keywords:
   - 21st
 related: []
 author: []
-dateModified: '2016-08-26T22:54:46.061Z'
+dateModified: '2016-08-26T22:55:51.483Z'
 title: 'Design Indaba 2016: Interview With Jaime Hayon'
 app_links: []
 publisher:
@@ -35,6 +33,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: design-indaba-2016-interview-with-jaime-hayon/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
