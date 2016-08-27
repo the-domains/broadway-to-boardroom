@@ -6,9 +6,13 @@ color:
   saturation: 0.18119877483695745
   rhythmicContrast: 0.24126184871420264
   brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: Broadway to Boardroom
+navigation:
+  - name: Design
+    id: 79b48d44-45af-4afc-8797-77b9ae02280e
+    type: content
